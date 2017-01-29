@@ -20,6 +20,9 @@
 			padding-top:20px;
 			background-size: cover;
 		}
+		#col_left #dp{
+			image-radius:50px;
+		}
 		#col_right
 		{
 			float:left;
