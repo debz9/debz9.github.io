@@ -13,8 +13,8 @@
 			allign:left;
 			background:url("images/fulls/03.jpg");
 			background-color: transparent; 
-			#min-width:500px;
-			height:1500px;
+			height:auto;
+			
 			overflow:auto;
 			padding-left:30px;
 			padding-top:20px;
