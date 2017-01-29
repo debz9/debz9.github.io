@@ -11,7 +11,7 @@
 			float:left;
 			width:30%
 			allign:left;
-			background:url("C:/fusioncharts/Personal Page - Boiler Plate/images/fulls/03.jpg");
+			background:url("images/fulls/03.jpg");
 			background-color: transparent; 
 			#min-width:500px;
 			height:1500px;
@@ -35,7 +35,7 @@
 			width:100px;
 			height:100px;
 			float:right;
-			background-image:url("C:/fusioncharts/Personal Page - Boiler Plate/images/avatar.jpg");
+			background-image:url("images/avatar.jpg");
 			}
 		#col_left #name
 		{
@@ -96,7 +96,7 @@ font-family:"Comic Sans MS", cursive, sans-serif;
 	#col_right #button2
 	{
 		border-radius:15px;
-		background-image:url("C:/fusioncharts/Personal Page - Boiler Plate/images/thumbs/04.jpg");
+		background-image:url("images/thumbs/04.jpg");
 		height:250px;
 font-family:"Comic Sans MS", cursive, sans-serif;
 		width:350px;
@@ -124,14 +124,14 @@ font-family:"Comic Sans MS", cursive, sans-serif;
 	#col_right #button3
 	{
 		border-radius:15px;
-		background-image:url("C:/fusioncharts/Personal Page - Boiler Plate/images/thumbs/03.jpg");
+		background-image:url("images/thumbs/03.jpg");
 		height:250px;
 		width:350px;
 		background-size: cover;}
 #col_right #button4
 	{
 		border-radius:15px;
-		background-image:url("C:/fusioncharts/Personal Page - Boiler Plate/images/thumbs/01.jpg");
+		background-image:url("images/thumbs/01.jpg");
 		height:250px;
 		width:350px;
 		background-size: cover;}
@@ -139,7 +139,7 @@ font-family:"Comic Sans MS", cursive, sans-serif;
 #col_right #button5
 	{
 		border-radius:15px;
-		background-image:url("C:/fusioncharts/Personal Page - Boiler Plate/images/thumbs/05.jpg");
+		background-image:url("images/thumbs/05.jpg");
 		height:250px;
 		width:350px;
 		background-size: cover;}
@@ -147,7 +147,7 @@ font-family:"Comic Sans MS", cursive, sans-serif;
 #col_right #button6
 	{
 		border-radius:15px;
-		background-image:url("C:/fusioncharts/Personal Page - Boiler Plate/images/thumbs/06.jpg");
+		background-image:url("images/thumbs/06.jpg");
 		height:250px;
 		width:350px;
 		background-size: cover;}
@@ -155,7 +155,7 @@ font-family:"Comic Sans MS", cursive, sans-serif;
 #col_right #button7
 	{
 		border-radius:15px;
-		background-image:url("C:/fusioncharts/Personal Page - Boiler Plate/images/thumbs/04.jpg");
+		background-image:url("images/thumbs/04.jpg");
 		height:250px;
 		width:350px;
 		background-size: cover;
