@@ -1,0 +1,247 @@
+#container
+		{
+			width:100%;
+			position:relative;
+			width:auto;
+			height:auto;
+		}
+
+		#col_left
+		{
+			float:left;
+			width:30%
+			allign:left;
+			background:url("C:/fusioncharts/Personal Page - Boiler Plate/images/fulls/03.jpg");
+			background-color: transparent; 
+			#min-width:500px;
+			height:1500px;
+			overflow:auto;
+			padding-left:30px;
+			padding-top:20px;
+			background-size: cover;
+		}
+		#col_right
+		{
+			float:left;
+			width:70%;
+			min-width:1000px;
+			height:auto;
+			padding-left:30px;
+			padding-top:20px;
+		}
+		
+		#col_left #dp
+		{
+			width:100px;
+			height:100px;
+			float:right;
+			background-image:url("C:/fusioncharts/Personal Page - Boiler Plate/images/avatar.jpg");
+			}
+		#col_left #name
+		{
+			font-family:"Comic Sans MS", cursive, sans-serif;
+			font-size:25px;
+			float:right;
+		}
+		#col_left #designation
+		{
+			font-family:"Comic Sans MS", cursive, sans-serif;
+			font-size:17px;
+			float:right;
+			
+		}
+		#col_left #company
+		{
+			font-family:"Comic Sans MS", cursive, sans-serif;
+			font-size:17px;
+			font-color:black;
+		}
+			
+
+		#col_right #header
+		{
+			width:auto;
+			font-family:"Comic Sans MS", cursive, sans-serif;
+			font-weight:bold;
+		}
+		
+		#col_right #para
+		{
+			font-weight:normal;
+			font-family:"Comic Sans MS", cursive, sans-serif;
+			font-size:25px;
+			
+		}
+		#col_right #learn
+		{
+			width:100px;
+			height:50px;
+			border-radius: 15px;
+    border: 1px solid #73AD21;
+    		background:white;
+		font-family:"Comic Sans MS", cursive, sans-serif;
+		
+		}
+	#col_right #bottom{
+		border-bottom:3px solid #A9A9A9;
+	}
+	#col_right #Recent{
+		padding-top:30px;
+		padding-left:25px;
+		height:75px;
+		font-size:30px;
+font-family:"Comic Sans MS", cursive, sans-serif;
+	}
+
+	#col_right #button2
+	{
+		border-radius:15px;
+		background-image:url("C:/fusioncharts/Personal Page - Boiler Plate/images/thumbs/04.jpg");
+		height:250px;
+font-family:"Comic Sans MS", cursive, sans-serif;
+		width:350px;
+		background-size: cover;
+	}
+	#col_right #work1
+	{		
+		width:300px;
+font-family:"Comic Sans MS", cursive, sans-serif;
+		height:400px;
+		float:left;
+		padding-left:20px;
+		
+		}
+	#col_right #work2
+	{		
+		width:300px;
+		height:400px;
+font-family:"Comic Sans MS", cursive, sans-serif;
+		float:left;
+		padding-left:60px;
+		padding-right:20px;
+		
+		}
+	#col_right #button3
+	{
+		border-radius:15px;
+		background-image:url("C:/fusioncharts/Personal Page - Boiler Plate/images/thumbs/03.jpg");
+		height:250px;
+		width:350px;
+		background-size: cover;}
+#col_right #button4
+	{
+		border-radius:15px;
+		background-image:url("C:/fusioncharts/Personal Page - Boiler Plate/images/thumbs/01.jpg");
+		height:250px;
+		width:350px;
+		background-size: cover;}
+
+#col_right #button5
+	{
+		border-radius:15px;
+		background-image:url("C:/fusioncharts/Personal Page - Boiler Plate/images/thumbs/05.jpg");
+		height:250px;
+		width:350px;
+		background-size: cover;}
+
+#col_right #button6
+	{
+		border-radius:15px;
+		background-image:url("C:/fusioncharts/Personal Page - Boiler Plate/images/thumbs/06.jpg");
+		height:250px;
+		width:350px;
+		background-size: cover;}
+
+#col_right #button7
+	{
+		border-radius:15px;
+		background-image:url("C:/fusioncharts/Personal Page - Boiler Plate/images/thumbs/04.jpg");
+		height:250px;
+		width:350px;
+		background-size: cover;
+}
+
+#col_right #work3
+	{		
+		width:300px;
+		height:400px;
+		float:left;
+		padding-left:20px;
+font-family:"Comic Sans MS", cursive, sans-serif;
+
+		}
+
+#col_right #work5
+	{		
+		width:300px;
+		height:400px;
+		float:left;
+		padding-left:20px;
+font-family:"Comic Sans MS", cursive, sans-serif;
+
+		}
+
+#col_right #work4
+	{		
+		width:300px;
+		height:400px;
+		float:left;
+		padding-left:60px;
+		padding-right:20px;
+font-family:"Comic Sans MS", cursive, sans-serif;
+		}
+
+#col_right #work6
+	{		
+		width:300px;
+font-family:"Comic Sans MS", cursive, sans-serif;
+		height:400px;
+		float:left;
+		padding-left:60px;
+
+		padding-right:20px;
+		}
+
+#col_right #floating {
+    display: inline-block;
+    width: auto;
+    height: auto;
+font-family:"Comic Sans MS", cursive, sans-serif;
+}
+
+#col_right #button8{
+	border-radius:15px;
+	height:50px;
+	width:100px;
+	background:white;
+font-family:"Comic Sans MS", cursive, sans-serif;
+}
+#nf{
+	background-color:e6e6fa;
+	height:50px;
+	width:180px;
+	border-radius:10px;
+font-family:"Comic Sans MS", cursive, sans-serif;
+	}
+#email{
+	background-color:e6e6fa;
+	height:50px;
+	width:180px;
+	padding-top:15px;
+	border-radius:10px;
+	padding-left:50px;
+}
+#left{
+	float:left;
+	width:60%;
+padding-left:30px;
+padding-top:20px;
+font-family:"Comic Sans MS", cursive, sans-serif;		
+}
+#right{
+float:left;
+width:40%
+padding-left:30px;
+padding-top:20px;
+font-family:"Comic Sans MS", cursive, sans-serif;
+}
