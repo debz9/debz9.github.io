@@ -9,6 +9,7 @@ margin: 0;
 			width:auto;
 			height:auto;
 			display:flex;
+			margin:auto;
 		}
 
 		#col_left
