@@ -14,7 +14,7 @@ margin: 0;
 		#col_left
 		{
 			float:left;
-			width:40%
+			width:600px;
 			allign:left;
 			background:url("images/fulls/03.jpg");
 			background-color: transparent; 
@@ -31,8 +31,8 @@ margin: 0;
 		#col_right
 		{
 			float:left;
-			width:60%;
 			
+			width:1200px;
 			height:auto;
 			padding-left:30px;
 			padding-top:20px;
