@@ -28,7 +28,7 @@ margin: 0;
 			background-size: cover;
 		}
 		#col_left #dp{
-			border-radius:50%;
+			
 		}
 		#col_right
 		{
@@ -41,30 +41,37 @@ margin: 0;
 		}
 		
 		#col_left #dp
-		{
+		{	
+			allign:center;
+			border-radius:50%;
 			width:100px;
 			height:100px;
 			float:right;
 			background-image:url("images/avatar.jpg");
+			padding-right:20px;
 			}
 		#col_left #name
 		{
 			font-family:"Comic Sans MS", cursive, sans-serif;
 			font-size:25px;
 			float:right;
+			allign:center;
+			padding-right:20px;
 		}
 		#col_left #designation
 		{
 			font-family:"Comic Sans MS", cursive, sans-serif;
 			font-size:17px;
 			float:right;
-			
+			padding-right:20px;
 		}
 		#col_left #company
 		{
 			font-family:"Comic Sans MS", cursive, sans-serif;
 			font-size:17px;
 			font-color:black;
+			float:right;
+			padding-left:20px;
 		}
 			
 
