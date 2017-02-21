@@ -16,7 +16,7 @@ margin: 0;
 		#col_left
 		{
 			float:left;
-			width:600px;
+			width:30%;
 			allign:left;
 			background:url("images/fulls/03.jpg");
 			background-color: transparent; 
@@ -28,14 +28,19 @@ margin: 0;
 			padding-right:20px;
 			background-size: cover;
 		}
-		#col_left #dp{
-			
+		#down{
+			position:relative;
+		}
+		#down span{
+			position:absolute;
+			bottom:0;
+			right:0;
 		}
 		#col_right
 		{
 			float:left;
 			
-			width:1200px;
+			width:70%;
 			height:auto;
 			padding-left:30px;
 			padding-top:20px;
