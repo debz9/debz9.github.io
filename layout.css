@@ -29,13 +29,11 @@ margin: 0;
 			background-size: cover;
 		}
 		#down{
-			position:relative;
-		}
-		#down span{
 			position:absolute;
 			bottom:0;
 			right:0;
 		}
+		
 		#col_right
 		{
 			float:left;
