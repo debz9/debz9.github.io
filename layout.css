@@ -87,13 +87,13 @@ margin: 0;
 			padding-right:20px;
 			padding-left:20px;
 			padding-bottom:20px;
-			position:absolute;
+			position:relative;
 			
 			
 		}
 
 		#col_left #down #twitter{
-			position:absolute;
+			position:relative;
 			width:30px;
 			height:30px;
 			float:bottom;
@@ -106,7 +106,7 @@ margin: 0;
 
 		#col_left #down #message1{
 			
-			position:absolute;
+			position:relative;
 			width:30px;
 			height:30px;
 			float:bottom;
