@@ -28,8 +28,8 @@ margin: 0;
 			padding-right:20px;
 			background-size: cover;
 		}
-		#down{
-			position:absolute;
+		#col_left #down{
+			position:relative;
 			bottom:0;
 			right:0;
 		}
