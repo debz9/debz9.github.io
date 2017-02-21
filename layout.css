@@ -80,7 +80,7 @@ margin: 0;
 			padding-left:20px;
 		}
 			
-		#github{
+		#col_left #down #github{
 			border-radius:50%;
 			width:30px;
 			height:30px;
@@ -90,7 +90,7 @@ margin: 0;
 			padding-bottom:20px;
 		}
 
-		#twitter{
+		#col_left #down #twitter{
 			border-radius:50%;
 			width:30px;
 			height:30px;
@@ -100,7 +100,7 @@ margin: 0;
 			padding-bottom:20px;
 		}
 
-		#message1{
+		#col_left #down #message1{
 			border-radius:50%;
 			width:30px;
 			height:30px;
