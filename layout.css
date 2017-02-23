@@ -16,7 +16,7 @@ margin: 0;
 		#col_left
 		{
 			float:left;
-			width:30%;
+			width:25%;
 			allign:left;
 			background:url("images/fulls/03.jpg");
 			background-color: transparent; 
@@ -40,7 +40,7 @@ margin: 0;
 		{
 			float:left;
 			
-			width:70%;
+			width:75%;
 			height:auto;
 			padding-left:30px;
 			padding-top:20px;
@@ -164,7 +164,7 @@ font-family:"Comic Sans MS", cursive, sans-serif;
 	width:250px;
 	height:100px;
 	font-family:"Comic Sans MS", cursive, sans-serif;
-	border-radius:20%;
+	border-radius:10%;
 	text-align:center;
 }
 
@@ -323,5 +323,8 @@ display:inline-block;
 	display:inline-block;
 }
 #message_img{
+display:inline-block;
+}
+#container2{
 display:inline-block;
 }
