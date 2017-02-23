@@ -328,3 +328,6 @@ display:inline-block;
 #container2{
 display:inline-block;
 }
+td{
+padding:20px;
+}
