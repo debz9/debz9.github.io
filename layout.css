@@ -160,6 +160,13 @@ font-family:"Comic Sans MS", cursive, sans-serif;
 		width:350px;
 		background-size: cover;
 	}
+#mf{
+	width:150px;
+	height:100px;
+	font-family:"Comic Sans MS", cursive, sans-serif;
+	border-radius:20%;
+}
+
 	#col_right #work1
 	{		
 		width:300px;
