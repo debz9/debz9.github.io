@@ -121,6 +121,7 @@ margin: 0;
 			width:auto;
 			font-family:"Comic Sans MS", cursive, sans-serif;
 			font-weight:bold;
+			padding-bottom:15px;
 		}
 		
 		#col_right #para
@@ -135,10 +136,10 @@ margin: 0;
 			width:100px;
 			height:50px;
 			border-radius: 15px;
-    border: 1px solid #73AD21;
-    		background:white;
-		font-family:"Comic Sans MS", cursive, sans-serif;
-		
+   			 border: 1px solid #73AD21;
+    			background:white;
+			font-family:"Comic Sans MS", cursive, sans-serif;
+			padding-bottom:15px;
 		}
 	#col_right #bottom{
 		border-bottom:3px solid #A9A9A9;
@@ -156,7 +157,7 @@ margin: 0;
 		border-radius:15px;
 		background-image:url("images/thumbs/04.jpg");
 		height:250px;
-font-family:"Comic Sans MS", cursive, sans-serif;
+		font-family:"Comic Sans MS", cursive, sans-serif;
 		width:350px;
 		background-size: cover;
 	}
@@ -171,10 +172,10 @@ font-family:"Comic Sans MS", cursive, sans-serif;
 	#col_right #work1
 	{		
 		width:300px;
-font-family:"Comic Sans MS", cursive, sans-serif;
+		font-family:"Comic Sans MS", cursive, sans-serif;
 		height:400px;
 		float:left;
-		padding-left:20px;
+		//padding-left:20px;
 		
 		}
 	#col_right #work2
@@ -183,8 +184,8 @@ font-family:"Comic Sans MS", cursive, sans-serif;
 		height:400px;
 font-family:"Comic Sans MS", cursive, sans-serif;
 		float:left;
-		padding-left:60px;
-		padding-right:20px;
+		//padding-left:60px;
+		//padding-right:20px;
 		
 		}
 	#col_right #button3
@@ -193,8 +194,9 @@ font-family:"Comic Sans MS", cursive, sans-serif;
 		background-image:url("images/thumbs/03.jpg");
 		height:250px;
 		width:350px;
-		background-size: cover;}
-#col_right #button4
+		background-size: cover;
+	}
+	#col_right #button4
 	{
 		border-radius:15px;
 		background-image:url("images/thumbs/01.jpg");
@@ -242,7 +244,7 @@ font-family:"Comic Sans MS", cursive, sans-serif;
 		width:300px;
 		height:400px;
 		float:left;
-		padding-left:20px;
+		//padding-left:20px;
 font-family:"Comic Sans MS", cursive, sans-serif;
 
 		}
@@ -252,20 +254,20 @@ font-family:"Comic Sans MS", cursive, sans-serif;
 		width:300px;
 		height:400px;
 		float:left;
-		padding-left:60px;
-		padding-right:20px;
-font-family:"Comic Sans MS", cursive, sans-serif;
+		//padding-left:60px;
+		//padding-right:20px;
+		font-family:"Comic Sans MS", cursive, sans-serif;
 		}
 
 #col_right #work6
 	{		
 		width:300px;
-font-family:"Comic Sans MS", cursive, sans-serif;
+		font-family:"Comic Sans MS", cursive, sans-serif;
 		height:400px;
 		float:left;
-		padding-left:60px;
+		//padding-left:60px;
 
-		padding-right:20px;
+		//padding-right:20px;
 		}
 
 #col_right #floating {
