@@ -17,7 +17,7 @@ margin: 0;
 		{
 			float:left;
 			width:25%;
-			allign:left;
+			align:left;
 			background:url("images/fulls/03.jpg");
 			background-color: transparent; 
 			height:auto;
@@ -48,7 +48,7 @@ margin: 0;
 		
 		#col_left #dp
 		{	
-			allign:center;
+			align:center;
 			border-radius:50%;
 			width:100px;
 			height:100px;
@@ -61,7 +61,7 @@ margin: 0;
 			font-family:"Comic Sans MS", cursive, sans-serif;
 			font-size:25px;
 			float:right;
-			allign:center;
+			align:center;
 			padding-right:20px;
 		}
 		#col_left #designation
@@ -139,7 +139,7 @@ margin: 0;
    			 border: 1px solid #73AD21;
     			background:white;
 			font-family:"Comic Sans MS", cursive, sans-serif;
-			padding-bottom:15px;
+	
 		}
 	#col_right #bottom{
 		border-bottom:3px solid #A9A9A9;
@@ -175,17 +175,17 @@ margin: 0;
 		font-family:"Comic Sans MS", cursive, sans-serif;
 		height:400px;
 		float:left;
-		//padding-left:20px;
+		
 		
 		}
 	#col_right #work2
 	{		
 		width:300px;
 		height:400px;
-font-family:"Comic Sans MS", cursive, sans-serif;
+		font-family:"Comic Sans MS", cursive, sans-serif;
 		float:left;
-		//padding-left:60px;
-		//padding-right:20px;
+		
+		
 		
 		}
 	#col_right #button3
