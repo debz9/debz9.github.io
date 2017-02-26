@@ -142,6 +142,7 @@ margin: 0;
 	
 		}
 	#col_right #bottom{
+		padding-top:15px;
 		border-bottom:3px solid #A9A9A9;
 	}
 	#col_right #Recent{
