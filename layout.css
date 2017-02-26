@@ -3,43 +3,41 @@ padding: 0;
 margin: 0;
 }
 #container
-		{
-			width:100%;
-			position:relative;
-			width:auto;
-			height:auto;
-			display:flex;
-			margin:0 auto;
-			padding:0;
-		}
-
-		#1td{
-			padding:3px;
-		}
-		#2td{
-			padding:3px;
-		}
-		#3{
-			padding:5px;
-		}
-
-		#col_left
-		{
-			float:left;
-			width:25%;
-			align:left;
-			background:url("images/fulls/03.jpg");
-			background-color: transparent; 
-			height:auto;
-			background-size:cover;
-			line-height:25px;
-			overflow:auto;
-			padding-left:30px;
-			padding-top:20px;
-			padding-right:20px;
-			background-size: cover;
-			position:relative;
-		}
+{
+	width:100%;
+	position:relative;
+	width:auto;
+	height:auto;
+	display:flex;
+	margin:0 auto;
+	padding:0;
+}
+#1td{
+	padding:3px;
+}
+#2td{
+	padding:3px;
+}
+#3{
+	padding:5px;
+}
+#col_left
+{
+	float:left;
+	width:25%;
+	align:left;
+	background:url("images/fulls/03.jpg");
+	background-color: transparent; 
+	height:auto;
+	background-size:cover;
+	line-height:25px;
+	overflow:auto;
+	padding-left:30px;
+	padding-top:20px;
+	padding-right:20px;
+	background-size: cover;
+	position:relative;
+}
 		#col_left #down{
 			position:absolute;
 			bottom:0;
