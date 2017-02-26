@@ -13,6 +13,10 @@ margin: 0;
 			padding:0;
 		}
 
+		#1td,#2td,#3td{
+			padding:5px;
+		}
+
 		#col_left
 		{
 			float:left;
