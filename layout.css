@@ -13,7 +13,9 @@ margin: 0;
 	padding:0;
 }
 #td1{
-	padding:3px;
+	padding-left:3px;
+	padding-bottom:3px;
+	padding-top:3px;
 }
 #td2{
 	padding:3px;
