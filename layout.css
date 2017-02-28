@@ -171,8 +171,8 @@ margin: 0;
 		background-size: cover;
 	}
 #mf{
-	width:250px;
-	height:100px;
+	width:350px;
+	height:150px;
 	font-family:"Comic Sans MS", cursive, sans-serif;
 	border-radius:10%;
 	text-align:center;
@@ -296,7 +296,7 @@ font-family:"Comic Sans MS", cursive, sans-serif;
 #nf{
 	background-color:e6e6fa;
 	height:50px;
-	width:180px;
+	width:175px;
 	border-radius:10px;
 font-family:"Comic Sans MS", cursive, sans-serif;
 	text-align:center;
@@ -304,7 +304,7 @@ font-family:"Comic Sans MS", cursive, sans-serif;
 #email{
 	background-color:e6e6fa;
 	height:50px;
-	width:180px;
+	width:175px;
 	padding-top:15px;
 	border-radius:10px;
 	padding-left:50px;
