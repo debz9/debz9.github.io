@@ -18,13 +18,15 @@ margin: 0;
 	padding-top:3px;
 }
 #td2{
-	padding:3px;
+	padding-right:3px;
+	padding-bottom:3px;
+	padding-top:3px;
 }
 #td3{
 	padding:5px;
 }
 #td4{
-	padding:10px;
+	padding:5px;
 }
 #b{
 	font-family:"Comic Sans MS", cursive, sans-serif;
@@ -183,8 +185,9 @@ margin: 0;
 #mf{
 	width:350px;
 	height:150px;
+	float:center;
 	font-family:"Comic Sans MS", cursive, sans-serif;
-	border-radius:10%;
+	border-radius:10px;
 	text-align:center;
 	background-color:e6e6fa;
 }
