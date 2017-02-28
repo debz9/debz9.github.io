@@ -184,6 +184,7 @@ margin: 0;
 	font-family:"Comic Sans MS", cursive, sans-serif;
 	border-radius:10%;
 	text-align:center;
+	background-color:e6e6fa;
 }
 
 	#col_right #work1
@@ -306,16 +307,18 @@ font-family:"Comic Sans MS", cursive, sans-serif;
 	height:50px;
 	width:175px;
 	border-radius:10px;
-font-family:"Comic Sans MS", cursive, sans-serif;
+	float:left;
+	font-family:"Comic Sans MS", cursive, sans-serif;
 	text-align:center;
 	}
 #email{
 	background-color:e6e6fa;
+	float:left;
 	height:50px;
 	width:175px;
 	padding-top:15px;
 	border-radius:10px;
-	padding-left:50px;
+	
 	text-align:center;
 	font-family:"Comic Sans MS", cursive, sans-serif;
 }
