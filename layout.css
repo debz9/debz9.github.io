@@ -21,6 +21,14 @@ margin: 0;
 #td3{
 	padding:5px;
 }
+#td4{
+	padding:10px;
+}
+#b{
+	font-family:"Comic Sans MS", cursive, sans-serif;
+	padding:3px;
+	border-radius:10%;
+}
 #col_left
 {
 	float:left;
