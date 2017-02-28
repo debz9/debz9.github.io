@@ -321,7 +321,7 @@ font-family:"Comic Sans MS", cursive, sans-serif;
 }
 #right{
 	display:inline-block;
-float:left;
+float:right;
 width:50%
 padding-left:30px;
 padding-top:20px;
